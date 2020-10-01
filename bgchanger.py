@@ -25,11 +25,11 @@ print(" ")
 #Apply background changing
 os.system('sudo ./ubuntu-20.04-change-gdm-background /usr/share/backgrounds/' + img)
 
-# print("Input this comands: ")#Введите эти команды
-# print(" ")
-# print(" cd")
-# print(" ")
-# print(' sudo ./ubuntu-20.04-change-gdm-background /usr/share/backgrounds/' + img)
+print("Input this comands: ")#Введите эти команды
+print(" ")
+print(" cd")
+print(" ")
+print(' sudo ./ubuntu-20.04-change-gdm-background /usr/share/backgrounds/' + img)
 
 print(" ")
 print(" ")	
